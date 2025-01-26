@@ -1,4 +1,7 @@
 # BANK LOAN REPORT
+
+![image alt](https://github.com/nilwagh8800/Bank-Loan-Data-Analysis/blob/9246231a745c37b4ba5a8e8988c8e726eeb91689/Picture1.png)
+
 TERMINOLOGIES USED IN DATA
 Fields Used in Data
 Loan ID:
