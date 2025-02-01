@@ -1,4 +1,4 @@
-# Bank Loan Report Analysis | SQL & Power BI
+# Financial Loan Performance Analysis with SQL Server & Power BI
 # Project Overview
 This project focuses on analyzing bank loan data using SQL for querying insights and Power BI for visualization. It provides key metrics such as total loan applications, funded amounts, repayment trends, loan status distributions, and borrower attributes to help financial institutions assess loan performance and default risks.
 
