@@ -1,5 +1,11 @@
 # BANK LOAN REPORT
 
+![image alt](https://github.com/nilwagh8800/Bank-Loan-Data-Analysis/blob/9e2dba626221180d34e2d677bda464f0da00f2fb/Screenshot%202025-02-01%20231838.png)
+
+![image alt](https://github.com/nilwagh8800/Bank-Loan-Data-Analysis/blob/9e2dba626221180d34e2d677bda464f0da00f2fb/Screenshot%202025-02-01%20231914.png)
+
+![image alt](https://github.com/nilwagh8800/Bank-Loan-Data-Analysis/blob/9e2dba626221180d34e2d677bda464f0da00f2fb/Screenshot%202025-02-01%20231943.png)
+
 ![image alt](https://github.com/nilwagh8800/Bank-Loan-Data-Analysis/blob/9246231a745c37b4ba5a8e8988c8e726eeb91689/Picture1.png)
 
 TERMINOLOGIES USED IN DATA
